@@ -46,7 +46,7 @@ Lines Genius is more than code — it's a movement to:
 
 Interested in contributing, collaborating, or featuring your content on Lines Genius?
 
-📬 Email: [your-email@example.com]  
+📬 Email: [linesofgenius@gmail.com]  
 🌍 Website: [https://linesgenius.com](https://linesgenius.com) *(coming soon)*  
 📱 Instagram / TikTok / YouTube: `@linesgenius`
 
